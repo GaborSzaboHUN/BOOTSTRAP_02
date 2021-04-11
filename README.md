@@ -1,2 +1,2 @@
 # BOOTSTRAP_02
-My secound tutorial website
+My second tutorial website
